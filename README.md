@@ -14,12 +14,12 @@ enthusiasts to stay up‑to‑date on the latest market trends.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/rohit2k3/Crypto-Info-App.git
+git clone https://github.com/krishnazi/crypto-info-web.git
 ```
 2. Navigate to the project directory:
 
 ```bash
-cd Crypto-Info-App
+cd crypto-Info-App
 ```
 
 3. Install the dependencies:
